@@ -1,0 +1,26 @@
+{
+	"name": "eslint-config-neutral",
+	"version": "1.0.0",
+	"description": "⚪️ ESLint config that catches strictly the errors and nothing more",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/mvoloskov/eslint-config-neutral.git"
+	},
+	"keywords": [
+		"eslint",
+		"style guide",
+		"lint",
+		"es6",
+		"es2015",
+		"es2016",
+		"es2017",
+		"es2018"
+	],
+	"author": "Miloslav Voloskov (@mvoloskov)",
+	"license": "BSL-1.0",
+	"homepage": "https://github.com/mvoloskov/eslint-config-neutral",
+	"devDependencies": {
+		"eslint": "^8.8.0"
+	}
+}
