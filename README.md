@@ -1,10 +1,10 @@
-# ⚪️ eslint-config-neutral
+# ⚪️ ESLint-config-neutral
 
 ESLint [Shareable Config](http://eslint.org/docs/developer-guide/shareable-configs) that catches strictly the errors and nothing more. 
 
 With that config, you can code however you want. This config is a good choice for those who don't use ESLint at all because they feel like the linter restricts them. By default, it doesn't dictate any opinionated things. Strictly the errors.
 
-Also, this config is a good starter. Feel free to extend it to your liking.
+Also, this config is a good starter, akin to [normalize.css](https://github.com/necolas/normalize.css), but for ESLint. Feel free to extend it to your liking.
 
 ## Usage
 
