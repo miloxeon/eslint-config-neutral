@@ -47,8 +47,3 @@ You can override rules or add yours directly in `.eslintrc` file.
 |no-duplicate-imports     |disallow duplicate module imports                                                   |                                                                                                                              |
 |no-new-symbol            |disallow new operators with the Symbol object                                       |`new Symbol()` is a counterintuitive error.                                                                                     |
 |no-this-before-super     |disallow this / super before calling super() in constructors                        |                                                                                                                              |
-
-
-## License
-
-BSL-1.0. © [Miloslav Voloskov](https://miloslav.website).
